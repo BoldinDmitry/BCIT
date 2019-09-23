@@ -1,10 +1,13 @@
 ﻿using System;
 namespace laba_1
 {
-    public class Square
+    public class Square : Rectangle, IPrint
     {
-        public Square()
+        private double side;
+        public Square(double side) : base(side, side)
         {
+            this.Type = "Квадрат";
         }
     }
+
 }

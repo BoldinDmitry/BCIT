@@ -1,10 +1,8 @@
 ﻿using System;
 namespace laba_1
 {
-    public class IPrint
+    interface IPrint
     {
-        public IPrint()
-        {
-        }
+        void Print();
     }
 }

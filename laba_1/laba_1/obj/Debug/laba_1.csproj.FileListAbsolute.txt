@@ -1,0 +1,6 @@
+/Users/dmitryboldin/ProjectsCsharp/BCIT/laba_1/laba_1/bin/Debug/laba_1.exe
+/Users/dmitryboldin/ProjectsCsharp/BCIT/laba_1/laba_1/bin/Debug/laba_1.pdb
+/Users/dmitryboldin/ProjectsCsharp/BCIT/laba_1/laba_1/obj/Debug/laba_1.csprojAssemblyReference.cache
+/Users/dmitryboldin/ProjectsCsharp/BCIT/laba_1/laba_1/obj/Debug/laba_1.csproj.CoreCompileInputs.cache
+/Users/dmitryboldin/ProjectsCsharp/BCIT/laba_1/laba_1/obj/Debug/laba_1.exe
+/Users/dmitryboldin/ProjectsCsharp/BCIT/laba_1/laba_1/obj/Debug/laba_1.pdb

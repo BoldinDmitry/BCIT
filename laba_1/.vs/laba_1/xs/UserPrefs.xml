@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{0048FA57-5771-4C52-B836-514C67322790}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="laba_1/IPrint.cs">
+    <Files>
+      <File FileName="laba_1/Program.cs" Line="13" Column="1" />
+      <File FileName="laba_1/AbstractGeometryFigure.cs" Line="25" Column="1" />
+      <File FileName="laba_1/Circle.cs" Line="6" Column="31" />
+      <File FileName="laba_1/Rectangle.cs" Line="7" Column="30" />
+      <File FileName="laba_1/Square.cs" Line="12" Column="1" />
+      <File FileName="laba_1/IPrint.cs" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="laba_1" expanded="True">
+            <Node name="laba_1" expanded="True">
+              <Node name="IPrint.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.laba__1 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
