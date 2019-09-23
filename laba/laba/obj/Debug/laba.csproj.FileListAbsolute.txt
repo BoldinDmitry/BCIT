@@ -1,0 +1,6 @@
+/Users/dmitryboldin/ProjectsCsharp/laba/laba/obj/Debug/laba.csprojAssemblyReference.cache
+/Users/dmitryboldin/ProjectsCsharp/laba/laba/obj/Debug/laba.csproj.CoreCompileInputs.cache
+/Users/dmitryboldin/ProjectsCsharp/laba/laba/bin/Debug/laba.exe
+/Users/dmitryboldin/ProjectsCsharp/laba/laba/bin/Debug/laba.pdb
+/Users/dmitryboldin/ProjectsCsharp/laba/laba/obj/Debug/laba.exe
+/Users/dmitryboldin/ProjectsCsharp/laba/laba/obj/Debug/laba.pdb
